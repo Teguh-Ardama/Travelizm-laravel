@@ -118,8 +118,8 @@ Travelizm
         <div class="col-sm-6 col-md-6 col-lg-4">
             <div class="card card-testimonial text-center">
             <div class="testimonial-content">
-                <img src="frontend/images/testi1.png" alt="User" class="mb-4 rounded-circle" />
-                <h3 class="mb-4">Adam Hidayat</h3>
+                <img src="frontend/images/testi3.png" alt="User" class="mb-4 rounded-circle" />
+                <h3 class="mb-4">Lord Rangga Sasana</h3>
                 <p class="testimonial">"It was very comfortable hotel in Indonesia for holidays I just wanna says Sangkyuuu"</p>
             </div>
             <hr />
